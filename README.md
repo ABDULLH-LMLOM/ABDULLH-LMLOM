@@ -57,10 +57,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABDULLH-LMLOM&show_icons=true&theme=tokyonight&hide_border=true" alt="Abdullah's GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULLH-LMLOM&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%"/>
-</p>
+
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=ABDULLH-LMLOM&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
